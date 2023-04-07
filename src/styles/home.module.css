@@ -1,0 +1,29 @@
+.CTA{
+    color : white;
+    font-size: 2rem;
+}
+.Cont{
+    text-align: center;
+    background-Color : #2E3B55;
+    display : flex;
+    justify-Content : center;
+    align-Items : center;
+    padding : 2.5rem 0;
+    margin : 3.5rem;
+}
+/* for phone screens */
+@media only screen and (max-width: 650px){
+    .CTA{
+        font-size : 1.25rem;
+    }
+    .Cont{
+        text-align: center;
+        background-Color : #2E3B55;
+        display : flex;
+        justify-Content : center;
+        align-Items : center;
+        padding : 1.5rem 0;
+        margin : 2rem 0;
+        max-width: xs;
+    }
+}

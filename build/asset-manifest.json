@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9c7192b.css",
+    "main.js": "/static/js/main.2a8d385e.js",
+    "static/media/vertMessi.webp": "/static/media/vertMessi.659b80b0e9f9c9396f51.webp",
+    "static/media/trophy.webp": "/static/media/trophy.84a19655b4cf0249ca35.webp",
+    "static/media/messi-headshot.webp": "/static/media/messi-headshot.ff0070f9035e5a9fa2b5.webp",
+    "static/media/insta.jpg": "/static/media/insta.29ef43cfab32ad4d87c9.jpg",
+    "index.html": "/index.html",
+    "main.f9c7192b.css.map": "/static/css/main.f9c7192b.css.map",
+    "main.2a8d385e.js.map": "/static/js/main.2a8d385e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9c7192b.css",
+    "static/js/main.2a8d385e.js"
+  ]
+}
